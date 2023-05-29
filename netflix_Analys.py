@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import plotly.express as px
 from textblob import TextBlob
-from IPython.display import display, HTML
+
 
 
 # Set up Streamlit layout
